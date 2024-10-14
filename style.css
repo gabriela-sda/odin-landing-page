@@ -31,9 +31,10 @@ body {
 
 .header {
     background-color: #1F2937;
-    padding: 16px 200px;
+    padding: 18px 250px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .logo {
@@ -47,11 +48,56 @@ ul {
     padding: 0;
     margin: 0;
     display: flex;
-    gap: 32px;
+    gap: 24px;
 }
 
 a {
     text-decoration: none;
     color: #E5E7EB;
     font-size: 18px;
+}
+
+.first-container {
+    background-color: #1F2937;
+    padding: 100px 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.description-box {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.description-title {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.subtext {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 17px;
+    border-style: none;
+    margin-top: 12px;
+    padding: 9px 34px;
+    border-radius: 8px;
+}
+
+.img-placeholder {
+    background-color: #E5E7EB;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 520px;
 }
