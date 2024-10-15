@@ -192,3 +192,11 @@ button {
 .call-to-action-button {
     border: 2px solid #F9FAF8;
 }
+
+.footer {
+    background-color: #1F2937;
+    padding: 40px 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
