@@ -1,1 +1,3 @@
 # odin-landing-page
+
+Projeto parte das lições de CSS e flexbox para The Odin Project. Promove o exercício de habilidades em HTML por meio da criação de uma webpage completa, com diferentes seções, incluindo uma header com menu e um footer. Desenvolve conceitos importantes em CSS, como o uso de web fonts e alinhamento adequado através das propriedades de paddings e margins. Utiliza display flexbox para construção de uma página com design dinâmico e responsivo.
